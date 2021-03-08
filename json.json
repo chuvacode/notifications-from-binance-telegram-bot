@@ -1,0 +1,2041 @@
+{
+    "appProps": {
+        "configs": {
+            "footer": {
+                "icons": {
+                    "children": [
+                        {
+                            "content": "",
+                            "link": "https://www.%suffixOrigin%/%locale%/community",
+                            "title": "h-telegram"
+                        },
+                        {
+                            "content": "",
+                            "link": "https://www.facebook.com/binance",
+                            "title": "h-facebook"
+                        },
+                        {
+                            "content": "",
+                            "link": "https://twitter.com/binance",
+                            "title": "h-twitter"
+                        },
+                        {
+                            "content": "",
+                            "link": "https://www.reddit.com/r/binance",
+                            "title": "h-reddit"
+                        },
+                        {
+                            "content": "",
+                            "langOnly": [
+                                "zh-CN"
+                            ],
+                            "link": "https://weibo.com/u/7336825507",
+                            "title": "h-weibo"
+                        },
+                        {
+                            "content": "",
+                            "link": "https://www.instagram.com/Binance/",
+                            "title": "h-instagram"
+                        },
+                        {
+                            "content": "",
+                            "link": "https://coinmarketcap.com/exchanges/binance/",
+                            "title": "h-coinmarketcap"
+                        },
+                        {
+                            "content": "",
+                            "link": "https://vk.com/binance",
+                            "title": "h-vk"
+                        },
+                        {
+                            "content": "",
+                            "link": "https://www.youtube.com/binanceyoutube",
+                            "title": "h-youtube"
+                        }
+                    ],
+                    "title": "ba-Community"
+                },
+                "lists": [
+                    {
+                        "children": [
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/about",
+                                "title": "ba-About"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/career",
+                                "title": "ba-joinUs"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/about#email",
+                                "title": "ba-ContactUs"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/community",
+                                "title": "ba-Community"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/blog",
+                                "title": "ba-binanceBlog"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/terms",
+                                "title": "ba-Terms"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/privacy",
+                                "title": "ba-Privacy"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/support/announcement",
+                                "title": "ba-Announcement"
+                            },
+                            {
+                                "langOnly": [
+                                    "en",
+                                    "zh-CN"
+                                ],
+                                "link": "https://www.%suffixOrigin%/%locale%/news",
+                                "title": "ba-news"
+                            }
+                        ],
+                        "title": "ba-aboutUs"
+                    },
+                    {
+                        "children": [
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%",
+                                "title": "Exchange"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://academy.binance.com/en",
+                                "title": "ba-Academy"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.binance.charity",
+                                "title": "BCF"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/cards",
+                                "title": "Card"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://labs.binance.com",
+                                "title": "ba-Labs"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://launchpad.%suffixOrigin%/%locale%",
+                                "title": "ba-Launchpad"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://research.%suffixOrigin%/",
+                                "title": "ba-Research"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://trustwallet.com",
+                                "title": "ba-TrustWallet"
+                            }
+                        ],
+                        "title": "ba-Products"
+                    },
+                    {
+                        "children": [
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/download",
+                                "title": "ba-Download"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/buy-sell-crypto",
+                                "title": "ba-creditCard"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/fee/schedule",
+                                "title": "ba-Fees"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/key-account-coverage",
+                                "title": "bottom-keyclient"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/activity/referral",
+                                "title": "ba-referral"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/bnb",
+                                "title": "ba-binanceCoin"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/busd",
+                                "title": "ba-busd"
+                            },
+                            {
+                                "content": "",
+                                "link": "https:///www.%suffixOrigin%/%locale%/otc-trading",
+                                "title": "ba-otctrading"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/usercenter/coin-apply",
+                                "title": "ba-ListingApplication"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/trade-rule",
+                                "title": "ba-tradeRules"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://docs.google.com/forms/d/e/1FAIpQLSeeaZzHatVVE2TLLQoYIBLkuynbRpnsTK6Hs3IzkPf_0ZP7Aw/viewform?usp=sf_link",
+                                "title": "ba-gateway"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/support/announcement/360039019631",
+                                "title": "ba-applyP2P"
+                            }
+                        ],
+                        "title": "ba-Service"
+                    },
+                    {
+                        "children": [
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/my/user-support/feedback/entry",
+                                "title": "ba-give-us-feedback"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/support",
+                                "title": "ba-SupportCenter"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/chat",
+                                "title": "ba-SubmitARequest"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://binance-docs.github.io/apidocs/spot/(cn|en)/",
+                                "title": "ba-APIDocumentation"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/official-verification",
+                                "title": "ba-official-verification"
+                            }
+                        ],
+                        "title": "ba-Support"
+                    },
+                    {
+                        "children": [
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/buy-BNB",
+                                "title": "ba-buybnb"
+                            },
+                            {
+                                "content": "Bitcoin",
+                                "link": "https://www.%suffixOrigin%/%locale%/buy-Bitcoin",
+                                "title": "ba-buyBitcion"
+                            },
+                            {
+                                "content": "Ethereum",
+                                "link": "https://www.%suffixOrigin%/%locale%/buy-Ethereum",
+                                "title": "ba-buyEthereum"
+                            },
+                            {
+                                "content": "Ripple",
+                                "link": "https://www.%suffixOrigin%/%locale%/buy-Ripple",
+                                "title": "ba-buyRipple"
+                            },
+                            {
+                                "content": "Litecoin",
+                                "link": "https://www.%suffixOrigin%/%locale%/buy-Litecoin",
+                                "title": "ba-buyLitecoin"
+                            },
+                            {
+                                "content": "Bitcoin Cash",
+                                "link": "https://www.%suffixOrigin%/%locale%/buy-Bitcoin-Cash",
+                                "title": "ba-buyBitcoinCash"
+                            },
+                            {
+                                "content": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/buy-Dogecoin-Doge",
+                                "title": "ba-buydogecoin"
+                            }
+                        ],
+                        "title": "ba-Learn"
+                    }
+                ]
+            },
+            "header": {
+                "auth": {
+                    "ba-task-taskCenter": "https://www.%suffixOrigin%/%locale%/my/task/list",
+                    "login": "https://accounts.%suffixOrigin%/%locale%/login",
+                    "register": "https://accounts.%suffixOrigin%/%locale%/register"
+                },
+                "download": {
+                    "children": [
+                        {
+                            "active": true,
+                            "content": "",
+                            "headerId": 134,
+                            "icon": "h-Apple",
+                            "id": 2181,
+                            "link": "https://apps.apple.com/hk/app/binance/id1436799971?l=en",
+                            "prefixIcon": "",
+                            "seqNo": 1,
+                            "star": true,
+                            "suffixIcon": "",
+                            "title": "App Store"
+                        },
+                        {
+                            "active": true,
+                            "content": "",
+                            "headerId": 134,
+                            "icon": "h-GooglePlay",
+                            "id": 2182,
+                            "link": "https://play.google.com/store/apps/details?id=com.binance.dev",
+                            "prefixIcon": "",
+                            "seqNo": 2,
+                            "star": true,
+                            "suffixIcon": "",
+                            "title": "Google Play"
+                        },
+                        {
+                            "active": true,
+                            "content": "",
+                            "headerId": 134,
+                            "icon": "h-andriod",
+                            "id": 2183,
+                            "link": "https://binance-1259603563.file.myqcloud.com/pack/Binance.apk",
+                            "prefixIcon": "",
+                            "seqNo": 3,
+                            "star": true,
+                            "suffixIcon": "",
+                            "title": "Android"
+                        }
+                    ],
+                    "icon": "h-download",
+                    "qcodeUrl": "%origin%/%locale%/download"
+                },
+                "list": [
+                    {
+                        "children": [
+                            {
+                                "active": true,
+                                "content": "ba-assetExchange",
+                                "headerId": 124,
+                                "id": 2141,
+                                "link": "https://www.%suffixOrigin%/%locale%/trade/BTC_USDT",
+                                "prefixIcon": "h-exchange2",
+                                "seqNo": 10,
+                                "star": false,
+                                "title": "Exchange"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-education",
+                                "headerId": 124,
+                                "id": 5786,
+                                "link": "https://academy.%suffixOrigin%/",
+                                "prefixIcon": "h-academy1",
+                                "seqNo": 20,
+                                "star": false,
+                                "title": "Academy"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-broker-subtitle",
+                                "headerId": 124,
+                                "id": 10641,
+                                "link": "https://www.%suffixOrigin%/(cn|en)/broker",
+                                "prefixIcon": "broker",
+                                "seqNo": 25,
+                                "star": false,
+                                "title": "ba-broker-main-title"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-BCF",
+                                "headerId": 124,
+                                "id": 5787,
+                                "link": "https://www.binance.charity",
+                                "prefixIcon": "h-bcf1",
+                                "seqNo": 30,
+                                "star": false,
+                                "title": "Charity"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-exscontent",
+                                "headerId": 124,
+                                "id": 5788,
+                                "link": "https://cloud.binance.com",
+                                "prefixIcon": "h-binancecloud",
+                                "seqNo": 40,
+                                "star": false,
+                                "title": "Cloud"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-dex",
+                                "headerId": 124,
+                                "id": 5789,
+                                "link": "https://www.binance.org/(en|cn|kr|id|ru|tr|vn)",
+                                "prefixIcon": "DEX",
+                                "seqNo": 50,
+                                "star": false,
+                                "title": "DEX"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-labs",
+                                "headerId": 124,
+                                "id": 5791,
+                                "link": "https://labs.binance.com",
+                                "prefixIcon": "h-labs1",
+                                "seqNo": 70,
+                                "star": false,
+                                "title": "Labs"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-launchpad",
+                                "headerId": 124,
+                                "id": 5792,
+                                "link": "https://launchpad.%suffixOrigin%/%locale%",
+                                "prefixIcon": "h-launchpad",
+                                "seqNo": 80,
+                                "star": false,
+                                "title": "Launchpad"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-research",
+                                "headerId": 124,
+                                "id": 5793,
+                                "link": "https://research.%suffixOrigin%/",
+                                "prefixIcon": "h-research1",
+                                "seqNo": 90,
+                                "star": false,
+                                "title": "Research"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-trustWallet",
+                                "headerId": 124,
+                                "id": 5794,
+                                "link": "https://trustwallet.com",
+                                "prefixIcon": "h-trust-wallet1",
+                                "seqNo": 100,
+                                "star": false,
+                                "title": "Trust Wallet"
+                            }
+                        ],
+                        "display": [
+                            "none",
+                            "flex",
+                            "flex"
+                        ],
+                        "filterId": 3,
+                        "id": 124,
+                        "module": "list",
+                        "needLogin": false,
+                        "seqNo": -10,
+                        "style": "HEADER",
+                        "subTitle": "",
+                        "title": {
+                            "icon": "h-top-menu-s",
+                            "openType": "_self",
+                            "showFiat": false,
+                            "title": "ba-Products",
+                            "type": "icon"
+                        },
+                        "type": "list"
+                    },
+                    {
+                        "children": [
+                            {
+                                "active": true,
+                                "content": "ba-CrediCardSubtitle",
+                                "headerId": 3,
+                                "id": 109,
+                                "link": "https://www.%suffixOrigin%/%locale%/buy-sell-crypto?channel=hzBankcard&fiat=%currency%",
+                                "seqNo": 1,
+                                "star": true,
+                                "title": "ba-CreditCardTitle"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-BankTransferSubtitle2",
+                                "headerId": 3,
+                                "id": 123,
+                                "link": "https://c2c.%suffixOrigin%/%locale%",
+                                "seqNo": 2,
+                                "star": true,
+                                "title": "ba-p2ptiitlle"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-ThirdPartyPaymentvSubtitle",
+                                "headerId": 3,
+                                "id": 10,
+                                "link": "https://www.%suffixOrigin%/%locale%/buy-sell-crypto/other-channel/buy/%currency%/BTC/",
+                                "seqNo": 4,
+                                "star": true,
+                                "title": "ba-ThirdpaymentTitle"
+                            }
+                        ],
+                        "display": [
+                            "none",
+                            "flex",
+                            "flex"
+                        ],
+                        "filterId": 3,
+                        "id": 3,
+                        "module": "list",
+                        "needLogin": false,
+                        "seqNo": 0,
+                        "style": "HEADER",
+                        "title": {
+                            "icon": "h-buycrypto",
+                            "openType": "_self",
+                            "showFiat": true,
+                            "title": "ba-titile2-2",
+                            "type": "text"
+                        },
+                        "type": "list"
+                    },
+                    {
+                        "children": [],
+                        "display": [
+                            "none",
+                            "flex",
+                            "flex"
+                        ],
+                        "filterId": 3,
+                        "id": 125,
+                        "module": "list",
+                        "needLogin": false,
+                        "seqNo": 10,
+                        "style": "HEADER",
+                        "subTitle": "",
+                        "title": {
+                            "icon": "h-market",
+                            "link": "https://www.%suffixOrigin%/%locale%/markets",
+                            "openType": "_self",
+                            "showFiat": false,
+                            "title": "ba-tableMarkets",
+                            "type": "text"
+                        },
+                        "type": "text"
+                    },
+                    {
+                        "children": [
+                            {
+                                "active": true,
+                                "content": "ba-BasicCONVERT-content",
+                                "headerId": 126,
+                                "id": 2142,
+                                "link": "https://www.%suffixOrigin%/%locale%/convert",
+                                "seqNo": 1,
+                                "star": true,
+                                "title": "ba-BasicCONVERT"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-Basic-content",
+                                "headerId": 126,
+                                "id": 2143,
+                                "link": "https://www.%suffixOrigin%/%locale%/trade/BTC_USDT?layout=basic",
+                                "seqNo": 2,
+                                "star": true,
+                                "title": "ba-Basic"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-advanced-content",
+                                "headerId": 126,
+                                "id": 2144,
+                                "link": "https://www.%suffixOrigin%/%locale%/trade/BTC_USDT?layout=pro",
+                                "seqNo": 3,
+                                "star": true,
+                                "title": "ba-Advanced"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-margin-content",
+                                "headerId": 126,
+                                "id": 10891,
+                                "link": "https://www.%suffixOrigin%/%locale%/trade/BTC_USDT?type=cross",
+                                "seqNo": 3,
+                                "star": true,
+                                "title": "ba-margin"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-c2c-content",
+                                "headerId": 126,
+                                "id": 2146,
+                                "link": "https://p2p.%suffixOrigin%/%locale%",
+                                "seqNo": 5,
+                                "star": true,
+                                "title": "ba-titile2-1"
+                            }
+                        ],
+                        "display": [
+                            "none",
+                            "flex",
+                            "flex"
+                        ],
+                        "filterId": 3,
+                        "id": 126,
+                        "module": "list",
+                        "needLogin": false,
+                        "seqNo": 20,
+                        "style": "HEADER",
+                        "subTitle": "",
+                        "title": {
+                            "icon": "h-exchange",
+                            "link": "",
+                            "openType": "_self",
+                            "showFiat": false,
+                            "title": "ba-trade",
+                            "type": "text"
+                        },
+                        "type": "list"
+                    },
+                    {
+                        "children": [
+                            {
+                                "active": true,
+                                "content": "ba-perpetualFutures-content",
+                                "headerId": 127,
+                                "id": 2147,
+                                "link": "https://www.%suffixOrigin%/%locale%/futures/BTCUSDT",
+                                "seqNo": 1,
+                                "star": true,
+                                "title": "ba-perpetualFutures"
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-quarterlyFutures-content",
+                                "headerId": 127,
+                                "id": 10835,
+                                "link": "https://www.%suffixOrigin%/%locale%/delivery/btcusd_quarter",
+                                "seqNo": 2,
+                                "star": true,
+                                "title": "ba-quarterlyFutures"
+                            },
+                            {
+                                "active": true,
+                                "androidLink": "",
+                                "content": "ba-voptionscontent",
+                                "headerId": 127,
+                                "id": 14310,
+                                "iosLink": "",
+                                "link": "https://voptions.%suffixOrigin%/en",
+                                "prefixIcon": "",
+                                "seqNo": 2,
+                                "star": true,
+                                "suffixIcon": "New",
+                                "title": "ba-voptions",
+                                "validate": ""
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-levaragedtoken-content",
+                                "headerId": 127,
+                                "id": 2148,
+                                "link": "https://www.%suffixOrigin%/%locale%/leveraged-tokens/tokens/allTokens",
+                                "seqNo": 3,
+                                "star": true,
+                                "title": "ba-levaragedtoken"
+                            },
+                            {
+                                "active": true,
+                                "androidLink": "",
+                                "content": "ba-battlecontent",
+                                "headerId": 127,
+                                "id": 13626,
+                                "iosLink": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/futuresng-activity/battle",
+                                "prefixIcon": "",
+                                "seqNo": 4,
+                                "star": true,
+                                "suffixIcon": "New",
+                                "title": "ba-headerbattle",
+                                "validate": ""
+                            }
+                        ],
+                        "display": [
+                            "none",
+                            "flex",
+                            "flex"
+                        ],
+                        "filterId": 3,
+                        "id": 127,
+                        "module": "list",
+                        "needLogin": false,
+                        "seqNo": 30,
+                        "style": "HEADER",
+                        "subTitle": "",
+                        "title": {
+                            "icon": "h-future-s",
+                            "link": "",
+                            "openType": "_self",
+                            "showFiat": false,
+                            "title": "ba-derivatives",
+                            "type": "text"
+                        },
+                        "type": "list"
+                    },
+                    {
+                        "children": [
+                            {
+                                "active": true,
+                                "androidLink": "",
+                                "content": "ba-Earndeatil",
+                                "headerId": 128,
+                                "id": 13290,
+                                "iosLink": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/earn",
+                                "prefixIcon": "",
+                                "seqNo": -1,
+                                "star": true,
+                                "suffixIcon": "",
+                                "title": "ba-Earntitle",
+                                "validate": ""
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-pool-content",
+                                "headerId": 128,
+                                "id": 2151,
+                                "link": "https://pool.%suffixOrigin%/%locale%/home",
+                                "seqNo": 3,
+                                "star": true,
+                                "title": "ba-pool"
+                            },
+                            {
+                                "active": true,
+                                "androidLink": "",
+                                "content": "ba-DebitCard-content",
+                                "headerId": 128,
+                                "id": 11306,
+                                "iosLink": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/cards/",
+                                "prefixIcon": "",
+                                "seqNo": 4,
+                                "star": true,
+                                "suffixIcon": "New",
+                                "title": "ba-DebitCard",
+                                "validate": ""
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-Getaninstantloan",
+                                "headerId": 128,
+                                "id": 2153,
+                                "link": "https://www.%suffixOrigin%/%locale%/loan",
+                                "seqNo": 5,
+                                "star": true,
+                                "title": "ba-CryptoLoans"
+                            },
+                            {
+                                "active": true,
+                                "androidLink": "",
+                                "content": "ba-swap-desc",
+                                "headerId": 128,
+                                "id": 11494,
+                                "iosLink": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/swap/liquidity",
+                                "prefixIcon": "",
+                                "seqNo": 6,
+                                "star": true,
+                                "suffixIcon": "New",
+                                "title": "ba-swap-title",
+                                "validate": ""
+                            }
+                        ],
+                        "display": [
+                            "none",
+                            "flex",
+                            "flex"
+                        ],
+                        "filterId": 3,
+                        "id": 128,
+                        "module": "list",
+                        "needLogin": false,
+                        "seqNo": 40,
+                        "style": "HEADER",
+                        "subTitle": "",
+                        "title": {
+                            "icon": "h-Earn",
+                            "link": "",
+                            "openType": "_self",
+                            "showFiat": false,
+                            "title": "ba-finance",
+                            "type": "text"
+                        },
+                        "type": "list"
+                    },
+                    "space",
+                    {
+                        "children": [
+                            {
+                                "active": true,
+                                "androidLink": "",
+                                "content": "",
+                                "headerId": 129,
+                                "id": 11207,
+                                "iosLink": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/my/wallet/account/overview",
+                                "needLogin": true,
+                                "prefixIcon": "",
+                                "seqNo": -100,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-wallet-overview",
+                                "validate": ""
+                            },
+                            {
+                                "active": true,
+                                "content": "ba-exchangeWalletMsg",
+                                "headerId": 129,
+                                "id": 2154,
+                                "link": "https://www.%suffixOrigin%/%locale%/my/wallet/exchange/balance",
+                                "seqNo": 1,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-exchangeWallet"
+                            },
+                            {
+                                "active": true,
+                                "content": "",
+                                "headerId": 129,
+                                "id": 2155,
+                                "link": "https://www.%suffixOrigin%/%locale%/my/wallet/account/margin",
+                                "seqNo": 2,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-marginWallet"
+                            },
+                            {
+                                "active": true,
+                                "content": "",
+                                "headerId": 129,
+                                "id": 2156,
+                                "link": "https://www.%suffixOrigin%/%locale%/usercenter/wallet/balances?tab=futures",
+                                "seqNo": 3,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-futureWallet"
+                            },
+                            {
+                                "active": true,
+                                "content": "",
+                                "headerId": 129,
+                                "id": 2157,
+                                "link": "https://www.%suffixOrigin%/%locale%/my/wallet/c2c/balance",
+                                "seqNo": 4,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-cwallet"
+                            },
+                            {
+                                "active": true,
+                                "content": "",
+                                "headerId": 129,
+                                "id": 2158,
+                                "link": "https://www.%suffixOrigin%/%locale%/my/saving/asset",
+                                "seqNo": 5,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-earnAssets"
+                            },
+                            {
+                                "active": true,
+                                "content": "",
+                                "headerId": 129,
+                                "id": 2159,
+                                "link": "https://www.%suffixOrigin%/%locale%/my/wallet/mining",
+                                "seqNo": 6,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-poolaccouts"
+                            },
+                            {
+                                "active": true,
+                                "androidLink": "",
+                                "content": "",
+                                "headerId": 129,
+                                "id": 13515,
+                                "iosLink": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/cards",
+                                "needLogin": true,
+                                "prefixIcon": "",
+                                "seqNo": 7,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-wallet-card",
+                                "validate": ""
+                            },
+                            {
+                                "active": true,
+                                "androidLink": "",
+                                "content": "",
+                                "headerId": 129,
+                                "id": 14364,
+                                "iosLink": "",
+                                "link": "https://voptions.%suffixOrigin%/en/my/wallet/account/options",
+                                "needLogin": true,
+                                "prefixIcon": "",
+                                "seqNo": 8,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-vanillaoptions",
+                                "validate": ""
+                            }
+                        ],
+                        "display": [
+                            "none",
+                            "none",
+                            "flex"
+                        ],
+                        "filterId": 3,
+                        "id": 129,
+                        "module": "list",
+                        "needLogin": true,
+                        "seqNo": 60,
+                        "style": "HEADER",
+                        "subTitle": "",
+                        "title": {
+                            "icon": "h-TopWallet",
+                            "link": "",
+                            "openType": "_self",
+                            "showFiat": false,
+                            "title": "ba-wallet",
+                            "type": "text"
+                        },
+                        "type": "list"
+                    },
+                    {
+                        "children": [
+                            {
+                                "active": true,
+                                "content": "",
+                                "headerId": 130,
+                                "id": 2160,
+                                "link": "https://www.%suffixOrigin%/%locale%/my/orders/exchange/openorder",
+                                "seqNo": 1,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-exchangeOrders"
+                            },
+                            {
+                                "active": true,
+                                "content": "",
+                                "headerId": 130,
+                                "id": 2161,
+                                "link": "https://www.%suffixOrigin%/%locale%/my/orders/margin/openorder",
+                                "seqNo": 2,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-marginOrders"
+                            },
+                            {
+                                "active": true,
+                                "content": "",
+                                "headerId": 130,
+                                "id": 2162,
+                                "link": "https://www.%suffixOrigin%/%locale%/usercenter/future-history/open-order",
+                                "seqNo": 3,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-futureOrders",
+                                "validate": "isExistFutureAccount"
+                            },
+                            {
+                                "active": true,
+                                "content": "",
+                                "headerId": 130,
+                                "id": 2163,
+                                "link": "https://c2c.%suffixOrigin%/%locale%/fiatOrder",
+                                "seqNo": 4,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-corder"
+                            },
+                            {
+                                "active": true,
+                                "androidLink": "",
+                                "content": "",
+                                "headerId": 130,
+                                "id": 11312,
+                                "iosLink": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/my/duocoin/history/subscription",
+                                "needLogin": true,
+                                "prefixIcon": "",
+                                "seqNo": 4,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-duocoin-sidebarTitle",
+                                "validate": ""
+                            },
+                            {
+                                "active": true,
+                                "content": "",
+                                "headerId": 130,
+                                "id": 2164,
+                                "link": "https://www.%suffixOrigin%/%locale%/my/saving/history/subscription",
+                                "seqNo": 5,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-earnHistory"
+                            },
+                            {
+                                "active": true,
+                                "content": "",
+                                "headerId": 130,
+                                "id": 2165,
+                                "link": "https://www.%suffixOrigin%/%locale%/my/wallet/exchange/buysell-history",
+                                "seqNo": 6,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-buySellHistory"
+                            },
+                            {
+                                "active": true,
+                                "content": "",
+                                "headerId": 130,
+                                "id": 2166,
+                                "link": "https://www.%suffixOrigin%/%locale%/my/loan/order",
+                                "seqNo": 7,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-loan-history"
+                            },
+                            {
+                                "active": true,
+                                "androidLink": "",
+                                "content": "",
+                                "headerId": 130,
+                                "id": 11142,
+                                "iosLink": "",
+                                "link": "https://www.%suffixOrigin%/%locale%/my/orders/convert/history",
+                                "needLogin": true,
+                                "needLogout": true,
+                                "prefixIcon": "",
+                                "seqNo": 8,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-nav-otc",
+                                "validate": ""
+                            },
+                            {
+                                "active": true,
+                                "androidLink": "",
+                                "content": "",
+                                "headerId": 130,
+                                "id": 14562,
+                                "iosLink": "",
+                                "link": "https://launchpad.%suffixOrigin%/%locale%/history/lottery",
+                                "needLogin": true,
+                                "prefixIcon": "",
+                                "seqNo": 9,
+                                "star": false,
+                                "suffixIcon": "",
+                                "title": "ba-launchpadhistory",
+                                "validate": ""
+                            }
+                        ],
+                        "display": [
+                            "none",
+                            "none",
+                            "flex"
+                        ],
+                        "filterId": 3,
+                        "id": 130,
+                        "module": "list",
+                        "needLogin": true,
+                        "seqNo": 70,
+                        "style": "HEADER",
+                        "subTitle": "",
+                        "title": {
+                            "icon": "h-Orders",
+                            "link": "",
+                            "openType": "_self",
+                            "showFiat": false,
+                            "title": "ba-others",
+                            "type": "text"
+                        },
+                        "type": "list"
+                    }
+                ],
+                "logo": {
+                    "height": "24px",
+                    "link": "https://www.%suffixOrigin%/%locale%",
+                    "name": "h-binanceen",
+                    "width": "120px"
+                },
+                "usercenterRedirectList": {
+                    "children": [
+                        {
+                            "active": true,
+                            "content": "",
+                            "headerId": 133,
+                            "id": 2176,
+                            "link": "https://www.%suffixOrigin%/%locale%/usercenter/security",
+                            "prefixIcon": "h-account-security",
+                            "seqNo": 1,
+                            "star": true,
+                            "suffixIcon": "",
+                            "title": "ba-security"
+                        },
+                        {
+                            "active": true,
+                            "content": "",
+                            "headerId": 133,
+                            "id": 2177,
+                            "link": "https://www.%suffixOrigin%/%locale%/usercenter/settings/profile",
+                            "prefixIcon": "h-IdentityVeritication",
+                            "seqNo": 2,
+                            "star": true,
+                            "suffixIcon": "",
+                            "title": "ba-identification"
+                        },
+                        {
+                            "active": true,
+                            "content": "",
+                            "headerId": 133,
+                            "id": 2178,
+                            "link": "https://www.%suffixOrigin%/%locale%/my/settings/api-management",
+                            "prefixIcon": "h-api-management",
+                            "seqNo": 3,
+                            "star": true,
+                            "suffixIcon": "",
+                            "title": "ba-APIManagement"
+                        },
+                        {
+                            "active": true,
+                            "content": "",
+                            "headerId": 133,
+                            "id": 2179,
+                            "link": "https://www.%suffixOrigin%/%locale%/my/coupon",
+                            "prefixIcon": "h-coupons",
+                            "seqNo": 4,
+                            "star": true,
+                            "suffixIcon": "",
+                            "title": "ba-Reward"
+                        },
+                        {
+                            "active": true,
+                            "androidLink": "",
+                            "content": "",
+                            "headerId": 133,
+                            "id": 13909,
+                            "iosLink": "",
+                            "link": "https://www.%suffixOrigin%/%locale%/my/task/list",
+                            "needLogin": true,
+                            "prefixIcon": "task-s24",
+                            "seqNo": 5,
+                            "star": false,
+                            "suffixIcon": "",
+                            "title": "ba-task-taskCenter",
+                            "validate": ""
+                        },
+                        {
+                            "active": true,
+                            "content": "",
+                            "headerId": 133,
+                            "id": 2180,
+                            "link": "https://www.%suffixOrigin%/%locale%/activity/referral",
+                            "prefixIcon": "h-referral1",
+                            "seqNo": 6,
+                            "star": true,
+                            "suffixIcon": "h-Earnbonus",
+                            "title": "ba-referral"
+                        }
+                    ],
+                    "type": "list"
+                }
+            },
+            "lang": {
+                "Channel Advcash2": "SEPA, Advcash, Payeer, Epay",
+                "Channel Advcash4": "Epay",
+                "action-registerNow": "Register free",
+                "action-trade": "Trade",
+                "action-tradeNow": "trade now",
+                "ba-0fee": "0 Fees - 3 Days Only!",
+                "ba-APIDocumentation": "API Documentation",
+                "ba-APIDocuments": "API Documentation",
+                "ba-APIManagement": "API Management",
+                "ba-AUD": "Buy Crypto with your AUD balance",
+                "ba-About": "About",
+                "ba-Academy": "Academy",
+                "ba-Advanced": "Advanced",
+                "ba-Announcement": "Announcements",
+                "ba-BCF": "Blockchain charity foundation",
+                "ba-BRL": "Buy Crypto with your BRL balance",
+                "ba-BankDeposit4bill": "Deposit UAH with VISA / MasterCard",
+                "ba-BankDepositAUD": "Deposit AUD with PayID",
+                "ba-BankDepositFasterPayment": "Deposit GBP with Faster Payment",
+                "ba-BankDepositFasterPayment0": "0 fee via Faster Payments deposit",
+                "ba-BankDepositSEPA": "0 fee via SEPA deposit",
+                "ba-BankDepositSEPAiDEAL": "Deposit EUR with SEPA, iDEAL",
+                "ba-BankDepositTransfer": "Bank Transfer",
+                "ba-BankDepositTransfer2": "Bank Transfer",
+                "ba-BankDepositTransferduitku": "Deposit IDR with Permata/Maybank/CIMB Niaga",
+                "ba-BankDepositUGX": "Deposit UGX with Flutterwave",
+                "ba-BankTransferSubtitle": "Bank transfer and 100+ options",
+                "ba-BankTransferSubtitle2": "Buy/Sell from Local Verified Vendors",
+                "ba-BankTransferSubtitle3": "Buy/Sell from Local Verified Vendors",
+                "ba-BanktransferTitle": "P2P Trading",
+                "ba-Basic": "Classic",
+                "ba-Basic-content": "Simple and easy-to-use interface",
+                "ba-BasicCONVERT": "Convert",
+                "ba-BasicCONVERT-content": "The easiest way to trade",
+                "ba-CAD": "Buy Crypto with your CAD balance",
+                "ba-CHF": "Buy Crypto with your CHF balance",
+                "ba-CZK": "Buy Crypto with your CZK balance",
+                "ba-Career": "Careers",
+                "ba-CashBalanceSubtitleA": "Pay by your",
+                "ba-CashBalanceSubtitleB": "balance",
+                "ba-CashBalanceTitle": "Cash Balance",
+                "ba-Community": "Community",
+                "ba-ContactUs": "Business Contacts",
+                "ba-CrediCardSubtitle": "Visa, Mastercard",
+                "ba-CrediCardSubtitle2": "Visa",
+                "ba-CrediCardSubtitleNGN": "Visa, Mastercard, Verve",
+                "ba-CreditCardTitle": "Credit/Debit Card",
+                "ba-CryptoLoans": "Crypto Loans",
+                "ba-Currency": "Currency",
+                "ba-DKK": "Buy Crypto with your DKK balance",
+                "ba-DebitCard": "Binance Visa Card",
+                "ba-DebitCard-content": "Convert and pay with crypto worldwide",
+                "ba-DeliveryOrder": "COIN-M Futures Order",
+                "ba-DeliveryWallet": "COIN-M Futures",
+                "ba-DepositSubtitle1": "Bank Transfer, Card payment",
+                "ba-DepositSubtitle2": "SEPA, Advcash, Payeer, Epay",
+                "ba-DepositSubtitle3": "Advcash",
+                "ba-DepositSubtitle4": "Advcash, Payeer",
+                "ba-DepositSubtitle5": "Papara, Advcash",
+                "ba-DepositSubtitle6": "Advcash",
+                "ba-DepositSubtitle7": "Epay",
+                "ba-DepositSubtitle8": "Faster Payment, Epay",
+                "ba-DepositSubtitle9": "Bank Transfer",
+                "ba-Download": "Downloads",
+                "ba-EUR": "Buy Crypto with your EUR balance",
+                "ba-Earndeatil": "One-stop Investment Solution",
+                "ba-Earntitle": "Binance Earn",
+                "ba-Exchange": "Exchange",
+                "ba-FAQ": "FAQ",
+                "ba-Fees": "Fees",
+                "ba-GBD": "Buy Crypto with your GBP balance",
+                "ba-GHS": "Buy Crypto with your GHS balance",
+                "ba-Getaninstantloan": "Get an instant loan secured by crypto assets",
+                "ba-HKD": "Buy Crypto with your HKD balance",
+                "ba-HUF": "Buy Crypto with your HUF balance",
+                "ba-Info": "Cryptocurrency information platform",
+                "ba-KES": "Buy Crypto with your KES balance",
+                "ba-KZT": "Buy Crypto with your KZT balance",
+                "ba-Labs": "Labs",
+                "ba-Launchpad": "Launchpad",
+                "ba-Learn": "Learn",
+                "ba-ListingApplication": "Listing Application",
+                "ba-LogIn": "Log In",
+                "ba-MXN": "Buy Crypto with your MXN balance",
+                "ba-NGN": "Buy Crypto with your NGN balance",
+                "ba-NOK": "Buy Crypto with your NOK balance",
+                "ba-NZD": "Buy Crypto with your NZD balance",
+                "ba-NotVerified": "Unverified",
+                "ba-Notification": "Notification",
+                "ba-OTC": "OTC",
+                "ba-OTC-content": "Better pricing and fast settlement for large trades",
+                "ba-OldSite": "Old Website",
+                "ba-PEN": "Buy Crypto with your PEN balance",
+                "ba-PLN": "Buy Crypto with your PLN balance",
+                "ba-Perpetual": "USD\u24c8-M Futures",
+                "ba-PerpetualOrder": "USD\u24c8-M Futures Order",
+                "ba-PerpetualWallet": "USD\u24c8-M Futures",
+                "ba-Prices": "Prices",
+                "ba-Privacy": "Privacy",
+                "ba-Products": "Products",
+                "ba-Quarterly": "COIN-M Futures",
+                "ba-RUB": "Buy Crypto with your RUB balance",
+                "ba-Register": "Register",
+                "ba-Research": "Research",
+                "ba-Reward": "Reward Center",
+                "ba-SEK": "Buy Crypto with your SEK balance",
+                "ba-SWIFT Bank Transfer": "SWIFT Bank Transfer",
+                "ba-Service": "Service",
+                "ba-SubmitARequest": "Submit a request",
+                "ba-Support": "Support",
+                "ba-SupportCenter": "Support Center",
+                "ba-TRY": "Buy Crypto with your TRY balance",
+                "ba-Terms": "Terms",
+                "ba-ThirdPartyPaymentvSubtitl7": "Simplex, Koinal, Latamex",
+                "ba-ThirdPartyPaymentvSubtitle": "Mercuryo, Simplex, BANXA",
+                "ba-ThirdPartyPaymentvSubtitle1": "Koinal",
+                "ba-ThirdPartyPaymentvSubtitle10": "BANXA, Simplex, BPAY, Poli, Binance Lite",
+                "ba-ThirdPartyPaymentvSubtitle11": "Simplex, Koinal",
+                "ba-ThirdPartyPaymentvSubtitle12": "BANXA",
+                "ba-ThirdPartyPaymentvSubtitle13": "Mercuryo, Koinal",
+                "ba-ThirdPartyPaymentvSubtitle14": "Latamex",
+                "ba-ThirdPartyPaymentvSubtitle15": "Mercuryo",
+                "ba-ThirdPartyPaymentvSubtitle16": "Koinal",
+                "ba-ThirdPartyPaymentvSubtitle2": "Mercuryo, Simplex, Koinal",
+                "ba-ThirdPartyPaymentvSubtitle3": "Simplex, Koinal, BANXA",
+                "ba-ThirdPartyPaymentvSubtitle4": "Satang",
+                "ba-ThirdPartyPaymentvSubtitle5": "Simplex, WazirX",
+                "ba-ThirdPartyPaymentvSubtitle6": "Simplex, Koinal, Latamex",
+                "ba-ThirdPartyPaymentvSubtitle7": "Mercuryo, Simplex, Koinal, Latamex",
+                "ba-ThirdPartyPaymentvSubtitle8": "Simplex",
+                "ba-ThirdPartyPaymentvSubtitle9": "Simplex, Banxa",
+                "ba-ThirdpaymentTitle": "Third-party Payment",
+                "ba-TrustWallet": "Trust Wallet",
+                "ba-UAH": "Buy Crypto with your UAH balance",
+                "ba-UGX": "Buy crypto with your UGX balance",
+                "ba-Verified": "Verified",
+                "ba-Volume": "Quote Volume",
+                "ba-ZAR": "Buy Crypto with your ZAR balance",
+                "ba-aboutUs": "About Us",
+                "ba-activities": "Activities",
+                "ba-advanced-content": "Full access to all trading tools",
+                "ba-ago": "ago",
+                "ba-apiAccess": "API Access",
+                "ba-applyP2P": "P2P Merchant Application",
+                "ba-applyToList": "Listing Application",
+                "ba-assetExchange": "Blockchain and crypto asset exchange",
+                "ba-balances": "Balance",
+                "ba-battle": "Battle",
+                "ba-battlecontent": "Battle to Win, Long vs Short",
+                "ba-binance": "Binance",
+                "ba-binanceBlog": "Binance Blog",
+                "ba-binanceCoin": "BNB",
+                "ba-binanceFutrue": "Futures",
+                "ba-broker-main-title": "Broker",
+                "ba-broker-subtitle": "Trading terminal solutions",
+                "ba-busd": "Buy BUSD",
+                "ba-buy": "Buy",
+                "ba-buy-bitcoin": "Buy Bitcoin",
+                "ba-buyBitcion": "Buy Bitcoin",
+                "ba-buyBitcoinCash": "Buy Bitcoin Cash",
+                "ba-buyEthereum": "Buy Ethereum",
+                "ba-buyLitecoin": "Buy Litecoin",
+                "ba-buyRipple": "Buy Ripple",
+                "ba-buySellHistory": "Buy Crypto History",
+                "ba-buybnb": "Buy BNB",
+                "ba-buydogecoin": "Buy Dogecoin",
+                "ba-c2c-content": "Bank transfer and 100+ options",
+                "ba-card1": "Card",
+                "ba-chooseCurrency": "Choose a currency",
+                "ba-chooseLang": "Please choose your language.",
+                "ba-chooseLanguageRegion": "Choose a language and region",
+                "ba-cloud": "Binance Cloud",
+                "ba-content": "Trade",
+                "ba-continue": "Continue",
+                "ba-corder": "P2P Order",
+                "ba-creditCard": "Buy Crypto",
+                "ba-creditcard": "Credit Card",
+                "ba-cwallet": "P2P",
+                "ba-d": "d",
+                "ba-deposit": "Deposit",
+                "ba-deposit-CAD": "Deposit CAD",
+                "ba-deposit-CHF": "Deposit CHF",
+                "ba-deposit-CZK": "Deposit CAK",
+                "ba-deposit-DKK": "Deposit DKK",
+                "ba-deposit-GBP": "Deposit GBP",
+                "ba-deposit-GHS": "Deposit GHS with 0% Fee",
+                "ba-deposit-HKD": "Deposit HKD",
+                "ba-deposit-HUF": "Deposit HUF",
+                "ba-deposit-KES": "Deposit KES",
+                "ba-deposit-KZT": "Deposit KZT",
+                "ba-deposit-MXN": "Deposit MXN",
+                "ba-deposit-NGN": "Deposit NGN",
+                "ba-deposit-NOK": "Deposit NOK",
+                "ba-deposit-NZD": "Deposit NZD",
+                "ba-deposit-PLN": "Deposit PLN",
+                "ba-deposit-RUB": "Deposit RUB",
+                "ba-deposit-SEK": "Deposit SEK",
+                "ba-deposit-TRY": "Deposit TRY",
+                "ba-deposit-UAH": "Deposit UAH",
+                "ba-deposit-UGX": "Deposit UGX",
+                "ba-deposit-ZAR": "Deposit ZAR",
+                "ba-deposit-tips": "Deposit",
+                "ba-deposit-tips1": "Bank Deposit",
+                "ba-deposit-tips2": "Deposit %currency%",
+                "ba-deposit-tips3": "Card Deposit",
+                "ba-deposit-vnd": "Deposit VND via Vietcombank",
+                "ba-depositWithdrawHistory": "Deposit & Withdrawal History",
+                "ba-derivatives": "Derivatives",
+                "ba-desktop": "Desktop",
+                "ba-dex": "Fast and secure decentralized digital asset exchange",
+                "ba-distributionHistory": "Distribution History",
+                "ba-download": "Download",
+                "ba-downloadapp": "Scan to Download App IOS & Android",
+                "ba-downloadoptions": "More Download Options",
+                "ba-duocoin-sidebarTitle": "Dual Currency Order",
+                "ba-earn": "Earn",
+                "ba-earnAssets": "Earn",
+                "ba-earnHistory": "Earn History",
+                "ba-earnbonus": "Earn Bonus",
+                "ba-education": "Blockchain and crypto education",
+                "ba-estimatedValue": "Estimated Value",
+                "ba-exchange-spot": "Exchange has now been updated to Spot",
+                "ba-exchangeOrders": "Spot Order",
+                "ba-exchangeWallet": "Fiat and Spot",
+                "ba-exchangeWalletMsg": "(Deposit & Withdraw)",
+                "ba-exscontent": "Enterprise exchange solutions",
+                "ba-fait": "Buy Crypto",
+                "ba-faitTitle": "Cash",
+                "ba-fiat-payWith": "Pay with",
+                "ba-fiat-search": "Search",
+                "ba-finance": "Finance",
+                "ba-fut-exchange": "Spot",
+                "ba-futrue": "Futures",
+                "ba-futrue-content": "Long or short market with up to 125x leverage",
+                "ba-futureFeeH": "Funding Rate History",
+                "ba-futureOrders": "Futures Order",
+                "ba-futureRealTimeFee": "Real-Time Funding Rate",
+                "ba-futureWallet": "Futures",
+                "ba-futures": "Futures",
+                "ba-futures-content": "Fast navigation to our latest products, services and resources",
+                "ba-futures-home": "Futures Home",
+                "ba-futuress-content": "Long or short the market with up to 125x leverage",
+                "ba-gateway": "Fiat Gateway Application",
+                "ba-give-us-feedback": "Give Us Feedback",
+                "ba-guide": "Guide",
+                "ba-h": "h",
+                "ba-headerbattle": "Battle",
+                "ba-historicalData": "Historical Data",
+                "ba-iUnderstand": "I understand",
+                "ba-identification": "Identification",
+                "ba-imprint": "Imprint",
+                "ba-indexPrice": "Index Price",
+                "ba-information": "Information",
+                "ba-insuranceFundH": "Insurance Fund History",
+                "ba-inverseFutures": "COIN-M Futures",
+                "ba-inverseFuturesOrder": "COIN-M Futures Order",
+                "ba-inverseFuturesWallet": "COIN-M Futures",
+                "ba-jexfutrue": "JEX Futures",
+                "ba-joinUs": "Careers",
+                "ba-justNow": "Just now",
+                "ba-keyAccountCoverage": "Key Account Coverage",
+                "ba-labs": "Incubator for top blockchain projects",
+                "ba-language": "Language",
+                "ba-languageRegion": "Language and Region",
+                "ba-launchpad": "Token Launch Platform",
+                "ba-launchpadhistory": "Launchpad History",
+                "ba-leaderboard": "Leaderboard",
+                "ba-lending": "Savings",
+                "ba-lending-content": "Deposit crypto and earn rewards",
+                "ba-lendingAssets": "Savings",
+                "ba-lendingHistory": "Savings History",
+                "ba-levaragedtoken": "Leveraged Tokens",
+                "ba-levaragedtoken-content": "Enjoy increased leverage without risk of liquidation",
+                "ba-loan-history": "Loan History",
+                "ba-logOut": "Log Out",
+                "ba-m": "mo",
+                "ba-margin": "Margin",
+                "ba-margin-content": "Increase your profits with leverage",
+                "ba-marginOrders": "Margin Order",
+                "ba-marginWallet": "Margin",
+                "ba-min": "min",
+                "ba-moreManagement": "More",
+                "ba-nav-otc": "Convert History",
+                "ba-news": "News",
+                "ba-newyear": "$20,000 New Year Giveaway - Top prize 2,000 BUSD",
+                "ba-newyear-newuser": "$10,000 Lucky Draw, 11th - 14th Jan 2021",
+                "ba-next": "Next",
+                "ba-noLatestNotification": "No new notifications",
+                "ba-notificationDetail": "Notification Detail",
+                "ba-ocbs-content": "Purchase crypto with credit/debit cards",
+                "ba-official-verification": "Binance Verify",
+                "ba-oldWebsite": "Old Website",
+                "ba-openOrder": "Open Orders",
+                "ba-orderHistory": "Order History",
+                "ba-orders": "Orders",
+                "ba-otctrading": "OTC Trading",
+                "ba-others": "Orders",
+                "ba-p2pcontent": "Web Online",
+                "ba-p2ptiitlle": "P2P Crypto Exchange",
+                "ba-p2ptitle2": "P2P Crypto Exchange",
+                "ba-p2ptitle3": "Bank Transfer, Alipay, Wechat",
+                "ba-partner-wallet": "WazirX Wallet",
+                "ba-pendingNotifications": "pending notifications",
+                "ba-perference": "Preference",
+                "ba-perpetualFutures": "USD\u24c8-M Futures",
+                "ba-perpetualFutures-content": "USD\u24c8 margined with no expiration and up to 125x leverage",
+                "ba-pnlAnalysis": "PNL Analysis",
+                "ba-pool": "Binance Pool",
+                "ba-pool-content": "Mine more rewards by connecting to the pool",
+                "ba-poolaccouts": "Pool",
+                "ba-prev": "Prev",
+                "ba-promotion-card": "7 BUSD Cashback for your first purchase",
+                "ba-promotion-deposit": "7 BUSD Cashback for your first deposit",
+                "ba-quarterlyFutures": "COIN-M Futures",
+                "ba-quarterlyFutures-content": "Token margined with or without expiry dates and up to 125x leverage",
+                "ba-referFriendsToEarn": "Refer Friends to Earn",
+                "ba-referral": "Referral",
+                "ba-research": "Institutional-grade analysis and reports",
+                "ba-scanToDownload": "Scan to Download",
+                "ba-security": "Security",
+                "ba-signIn": "Log In",
+                "ba-spot": "Spot",
+                "ba-staking": "Staking",
+                "ba-staking-content": "Earn more rewards with Binance Staking",
+                "ba-status": "Status",
+                "ba-suggest": "Suggest for you",
+                "ba-support": "Support",
+                "ba-supportSubmit": "Submit a request",
+                "ba-swap-desc": "Become a liquidity provider & earn double",
+                "ba-swap-title": "Liquid Swap",
+                "ba-tableMarkets": "Markets",
+                "ba-task-taskCenter": "Task Center",
+                "ba-testnet": "Testnet",
+                "ba-titile1": "Fiat",
+                "ba-titile2-1": "P2P",
+                "ba-titile2-2": "Buy Crypto",
+                "ba-tour": "Tour",
+                "ba-trade": "Trade",
+                "ba-tradeHistory": "Trade History",
+                "ba-tradeRules": "Trading Rules",
+                "ba-tradingData": "Trading Data",
+                "ba-trbinance": "TRBINANCE.COM",
+                "ba-trustWallet": "Binance's official crypto wallet",
+                "ba-tutorial": "Tutorial",
+                "ba-usdtFutures": "USD\u24c8-M Futures",
+                "ba-usdtFuturesOrder": "USD\u24c8-M Futures Order",
+                "ba-usdtFuturesWallet": "USD\u24c8-M Futures",
+                "ba-vanillaoptions": "Vanilla Options",
+                "ba-viewAll": "View All",
+                "ba-viewMore": "View more",
+                "ba-voptions": "Vanilla Options",
+                "ba-voptionscontent": "Buy and Sell European-style Vanilla Options.",
+                "ba-wallet": "Wallet",
+                "ba-wallet-card": "Card",
+                "ba-wallet-overview": "Overview",
+                "ba-walletDepositSubtitl3": "Epay",
+                "ba-walletDepositSubtitle": "Advcash, Payeer",
+                "ba-walletDepositSubtitle1": "Papara,  Advcash",
+                "ba-walletDepositSubtitle2": "Advcash",
+                "ba-walletDepositSubtitle3": "Epay",
+                "ba-walletDepositSubtitle4": "Deposit NGN with Bank Transfer",
+                "ba-walletDepositSubtitle5": "Deposit ZAR with Bank Transfer",
+                "ba-walletDepositSubtitle6": "Advcash, Payeer, Epay",
+                "ba-walletDepositSubtitle7": "Etana, Epay",
+                "ba-walletDepositSubtitle8": "Etana",
+                "ba-walletDepositSubtitle9": "Mobile Money",
+                "ba-win-dwon": "Download Desktop Clients >",
+                "ba-withdraw": "Withdraw",
+                "ba-y": "Y",
+                "binance-base-Volume": "Quote Volume",
+                "binancecloud": "Enterprise exchange solutions",
+                "binancecould": "Binance Cloud",
+                "bottom-keyclient": "Key Client Privileges",
+                "common-th-24hChange": "24h Change",
+                "common-th-account": "Account",
+                "common-th-lastPrice": "Last Price",
+                "common-th-marketCap": "Market Cap",
+                "common-th-name": "Coin",
+                "exchange-check": "Success! Please scroll down to check.",
+                "exchange-inmail-markAllread": "Mark all as read",
+                "exchange-wallet-fee": "Fee:",
+                "exchange-wallet-matchedNetworksTip": "\u8be5\u5730\u5740\u81ea\u52a8\u5339\u914d\u7f51\u7edc ## , \u5efa\u8bae\u60a8\u9009\u62e9",
+                "exchange-wallet-minDeposit": "Deposit amount must be greater than <strong>##</strong>",
+                "exchangeWallet": "Spot Wallet",
+                "fait-titile": "Fiat",
+                "na-assetPR": "Access",
+                "pos-type-ahead": "Redeem earlier",
+                "pos-type-mature": "Redeemed",
+                "pos-type-transferred": "Transfer to Flexible",
+                "share-poster-commonEarn": "Earn coins together",
+                "share-poster-download": "download",
+                "share-poster-future": "contract",
+                "share-poster-high": "Up to",
+                "share-poster-highReferral": "Rebate up to",
+                "share-poster-inviteFrends": "invite friends",
+                "share-poster-lieEarn": "Lying down to make money",
+                "share-poster-mining": "Mining pool",
+                "share-poster-notDream": "Not a dream",
+                "share-poster-oneBillion": "Achieve a small goal and earn him 100 million",
+                "share-poster-share": "Share",
+                "share-poster-slectSize": "Choose size",
+                "share-poster-spot": "spot",
+                "share-poster-trade": "transaction",
+                "tradeGuide-startTrading": "Start trading now"
+            },
+            "origin": "https://www.binance.com"
+        },
+        "disableSeo": false,
+        "finalPathWithoutLng": "/support/announcement/c-48",
+        "i18n": {
+            "support-center": {
+                "support-center-accountFunSeo": "Find answers on Binance account functions, ID verification, 2FA, Email etc.",
+                "support-center-all": "All",
+                "support-center-announcement": "Announcement",
+                "support-center-apiSeo": "For senior crypto traders who use Binance API to facilitate trading process",
+                "support-center-binance": "Binance",
+                "support-center-contentNotFound": "This article currently does not support your language. Auto-translator is recommended for English.",
+                "support-center-cryptoSeo": "Understand Binance Futures, Options and other derivatives in this module",
+                "support-center-dayAgo": "{1} day ago",
+                "support-center-daysAgo": "{2} days ago",
+                "support-center-depositSeo": "Find here answer for issues during deposit and withdrawal to Binance wallet",
+                "support-center-faq": "FAQ",
+                "support-center-faqSeo": "If you have any issues when you use Binance services, find the answers here",
+                "support-center-finacneSeo": "Increase the value of idle assets with Binance Savings, Staking, Loans etc.",
+                "support-center-goHome": "Back to Support Center",
+                "support-center-hourAgo": "{1} hour ago",
+                "support-center-hoursAgo": "{2} hours ago",
+                "support-center-latest": "Latest Articles",
+                "support-center-limitChar": "The query is limited to 50 characters.",
+                "support-center-limitKeywords": "The query is limited to 5 words.",
+                "support-center-minuteAgo": "{1} minute ago",
+                "support-center-minutesAgo": "{14} minutes ago",
+                "support-center-moreQuestion": "Have more questions?",
+                "support-center-noMoreData": "No more data",
+                "support-center-noSearchResTips": "Sorry, we can\u2019t come up with anything for your search.",
+                "support-center-notFound": "This page you are looking for cannot be found.",
+                "support-center-oederByRelevance": "Relevance",
+                "support-center-orderByDate": "Date",
+                "support-center-pageTitle": "Support",
+                "support-center-related": "Related Articles",
+                "support-center-searchHere": "Search here",
+                "support-center-searchResult": "Search Result",
+                "support-center-searchTitle": "How can we help you?",
+                "support-center-securitySeo": "Consult security tips here and learn to protect assets in Binance wallet",
+                "support-center-serviceSeo": "Find here Binance service TOU and user agreements for other products",
+                "support-center-sortByDate": "Sort by date",
+                "support-center-sortByTitle": "Sort by",
+                "support-center-sortbyrelevance": "Sort by relevance",
+                "support-center-spotSeo": "Find here info on Binance Spot, Margin and OTC trading rules & procedures",
+                "support-center-submitRequest": "submit a request",
+                "support-center-supportCenter": "Support Center",
+                "support-center-top": "Top Articles",
+                "support-center-totalResNum": "{Numbers} Results In Total",
+                "support-center-viewMore": "View more",
+                "zendesksupport-search-placeholder": "Search on Binance ..."
+            }
+        },
+        "locale": "en"
+    },
+    "dynamicIds": [
+        "RCSn",
+        "sWZW",
+        "IvR9",
+        "a9Cv",
+        "taT2",
+        "t1IL",
+        "eiqS",
+        "5zMt",
+        "W1nx"
+    ],
+    "pageData": {
+        "redux": {
+            "cookies": {
+                "theme": "lightTheme",
+                "userPreferredCurrency": "USD_USD"
+            },
+            "global": {
+                "dir": "ltr",
+                "host": "https://www.binance.com",
+                "isHybrid": false,
+                "metaData": {
+                    "description": "Binance cryptocurrency exchange - We operate the worlds biggest bitcoin exchange and altcoin crypto exchange in the world by volume",
+                    "keywords": "Binance Support",
+                    "ogImage": "https://public.bnbstatic.com/images/common/ogImage.jpg",
+                    "seoTitle": "New Crypto Listings",
+                    "seoTitleSuffix": "Binance Support",
+                    "url": "https://www.binance.com/en/support/announcement/c-48"
+                },
+                "noticeInfo": null,
+                "origin": "https://www.binance.com",
+                "pageLayout": 1248,
+                "path": "/en/support/announcement/c-48",
+                "url": "https://www.binance.com/en/support/announcement/c-48",
+                "withChat": true,
+                "withCompliance": true,
+                "withFooter": true,
+                "withHeader": true
+            },
+            "persistSetting": {
+                "favorites": [],
+                "isHideSmallBalance": false,
+                "maskedBalance": false
+            },
+            "products": {
+                "hotProduct": [],
+                "loading": true,
+                "productMap": {},
+                "updateTime": 1615178421927
+            },
+            "ssrStore": {},
+            "userCenter": {
+                "fiatCurrency": {
+                    "USD": {
+                        "pair": "USD_USD",
+                        "rate": 1,
+                        "symbol": "$"
+                    }
+                },
+                "fiatCurrencyInfo": [],
+                "languageMap": {
+                    "ar": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                    "bg": "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438",
+                    "bn": "\u09ac\u09be\u0982\u09b2\u09be",
+                    "cs": "\u010ce\u0161tina",
+                    "de": "Deutsch",
+                    "en": "English",
+                    "en-AU": "English (Australia)",
+                    "en-IN": "English (India)",
+                    "en-NG": "English (Nigeria)",
+                    "es": "Espa\u00f1ol (Internacional)",
+                    "es-LA": "Espa\u00f1ol (Latinoam\u00e9rica)",
+                    "es-MX": "Espan\u00f5l (Mexico)",
+                    "fr": "Fran\u00e7ais",
+                    "he": "\u05e2\u05d1\u05e8\u05d9\u05ea",
+                    "id": "Bahasa Indonesia",
+                    "it": "Italiano",
+                    "ja": "\u65e5\u672c\u8a9e",
+                    "ko": "\ud55c\uad6d\uc5b4",
+                    "lv": "latvie\u0161u valoda",
+                    "nl": "Vlaams",
+                    "ph": "Filipino",
+                    "pl": "Polski",
+                    "pt-BR": "Portugu\u00eas (Brasil)",
+                    "pt-PT": "Portugu\u00eas (Portugal)",
+                    "ro": "Rom\u00e2n\u0103",
+                    "ru": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+                    "sv": "Svenska",
+                    "th": "\u0e44\u0e17\u0e22",
+                    "tr": "T\u00fcrk\u00e7e",
+                    "uk-UA": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430",
+                    "vi": "Ti\u1ebfng Vi\u1ec7t",
+                    "zh-CN": "\u7b80\u4f53\u4e2d\u6587",
+                    "zh-TW": "\u7e41\u9ad4\u4e2d\u6587"
+                },
+                "loginStatus": {
+                    "isLoading": true
+                },
+                "userInfo": {},
+                "userPreferredCurrency": {}
+            }
+        }
+    },
+    "routeProps": {
+        "b723": {
+            "data": {
+                "catalogs": [
+                    {
+                        "articles": [
+                            {
+                                "code": "8ccb514ecc664a7d93c71ea9eb173905",
+                                "id": 48971,
+                                "title": "Binance Will List MANTRA DAO (OM) in the Innovation Zone"
+                            },
+                            {
+                                "code": "f4147e92899045c6a46979072e49aede",
+                                "id": 48820,
+                                "title": "Margin Trading for AERGO, FIRO & FTM Enabled on Binance"
+                            },
+                            {
+                                "code": "fdf05fa26ff24159b46a41f709950796",
+                                "id": 48817,
+                                "title": "Binance Futures Will Increase the Maximum Leverage of LIT, UNFI, DODO, REEF, RVN, SFP USDT-Margined Perpetual Contracts to 50X"
+                            },
+                            {
+                                "code": "71595b2e05484baaa6471f3c53eddf93",
+                                "id": 48706,
+                                "title": "Cross Margin Trading for 1INCH Enabled on Binance"
+                            },
+                            {
+                                "code": "4dfae5ce3d894504bc50c423356846f0",
+                                "id": 48680,
+                                "title": "Binance Will List Stafi (FIS) in the Innovation Zone"
+                            },
+                            {
+                                "code": "b132dae5b04341459d8209f29b90c202",
+                                "id": 48647,
+                                "title": "Binance Futures Will Launch USDT-Margined XEM and BTCST Perpetual Contracts with Up to 25X Leverage"
+                            },
+                            {
+                                "code": "c4480c13de9e46c09c5f4080ebae0ead",
+                                "id": 48593,
+                                "title": "CTXC and FIO Enabled on Binance Isolated Margin"
+                            },
+                            {
+                                "code": "a2aa2ee0e80e4291aa8d3f22f9793948",
+                                "id": 48569,
+                                "title": "Binance Will List Badger DAO (BADGER) in the Innovation Zone"
+                            },
+                            {
+                                "code": "c2512dcc4e2846e2bce308a767531a71",
+                                "id": 48372,
+                                "title": "BTCST, CKB, GAS and XVS Enabled on Binance Isolated Margin"
+                            },
+                            {
+                                "code": "9e7413d60517420bb7419d2ef8b885aa",
+                                "id": 48301,
+                                "title": "AVAX and EGLD Enabled on Binance Cross Margin"
+                            },
+                            {
+                                "code": "31c14ad157af4daa89bd58633791a6a5",
+                                "id": 48295,
+                                "title": "Binance Will List Terra Virtua (TVK) in the Innovation Zone"
+                            },
+                            {
+                                "code": "885d634924c24d48a837a76541e54fcc",
+                                "id": 48265,
+                                "title": "Binance Adds DOT/GBP, ADA/TRY, ADA/BRL & ADA/GBP Trading Pairs"
+                            },
+                            {
+                                "code": "d6baaf7a59d74cb4bcf1d95efd2bf19c",
+                                "id": 46599,
+                                "title": "Binance Will List Phala Network (PHA) in the Innovation Zone"
+                            },
+                            {
+                                "code": "b819888e4cf642bcb98494d0b16e06fd",
+                                "id": 46485,
+                                "title": "Margin Trading for AION, BAKE, BQX, DENT, HOT, KEY, MFT, NPXS, SUN & SXP Enabled on Binance"
+                            },
+                            {
+                                "code": "af83f5b390a54a05a076b7fbe83c70d9",
+                                "id": 46479,
+                                "title": "Binance Completes the AC Milan Fan Token Discount Sale and Will Open Trading for ACM"
+                            }
+                        ],
+                        "catalogId": 48,
+                        "catalogName": "New Crypto Listings",
+                        "catalogs": [],
+                        "icon": "https://bin.bnbstatic.com/image/20200609/bbjy2x.png",
+                        "parentCatalogId": null,
+                        "total": 704
+                    }
+                ]
+            },
+            "navDataResource": [
+                {
+                    "articles": [
+                        {
+                            "code": "8ccb514ecc664a7d93c71ea9eb173905",
+                            "id": 48971,
+                            "title": "Binance Will List MANTRA DAO (OM) in the Innovation Zone"
+                        },
+                        {
+                            "code": "f4147e92899045c6a46979072e49aede",
+                            "id": 48820,
+                            "title": "Margin Trading for AERGO, FIRO & FTM Enabled on Binance"
+                        },
+                        {
+                            "code": "fdf05fa26ff24159b46a41f709950796",
+                            "id": 48817,
+                            "title": "Binance Futures Will Increase the Maximum Leverage of LIT, UNFI, DODO, REEF, RVN, SFP USDT-Margined Perpetual Contracts to 50X"
+                        },
+                        {
+                            "code": "71595b2e05484baaa6471f3c53eddf93",
+                            "id": 48706,
+                            "title": "Cross Margin Trading for 1INCH Enabled on Binance"
+                        },
+                        {
+                            "code": "4dfae5ce3d894504bc50c423356846f0",
+                            "id": 48680,
+                            "title": "Binance Will List Stafi (FIS) in the Innovation Zone"
+                        }
+                    ],
+                    "catalogId": 48,
+                    "catalogName": "New Crypto Listings",
+                    "catalogs": [],
+                    "icon": "https://bin.bnbstatic.com/image/20200609/bbjy2x.png",
+                    "parentCatalogId": null,
+                    "total": 704
+                },
+                {
+                    "articles": [
+                        {
+                            "code": "d322848a62824884b4c3f0e0e8af8fde",
+                            "id": 48976,
+                            "title": "Binance Will Support the THETA Network (THETA) Upgrade & Hard Fork"
+                        },
+                        {
+                            "code": "089d56ca6d0c4d66b6e2d4ee065e2b19",
+                            "id": 48834,
+                            "title": "Binance Spot Trading System Upgrade Complete (2021-03-06)"
+                        },
+                        {
+                            "code": "f02cab4e685b46da803bb0a680546d4b",
+                            "id": 48805,
+                            "title": "Binance Spot Trading System Upgrade Notice (2021-03-06)"
+                        },
+                        {
+                            "code": "ccb7c896b69b41fab398c76a07fc20d0",
+                            "id": 48729,
+                            "title": "Binance Pool to Upgrade its ETH Mining Settlement Model"
+                        },
+                        {
+                            "code": "2a332c43213441568920157a700ed266",
+                            "id": 48726,
+                            "title": "Snapshot Schedule Update to the Symbol (XYM) Airdrop Program for NEM (XEM) Holders"
+                        }
+                    ],
+                    "catalogId": 49,
+                    "catalogName": "Latest News",
+                    "catalogs": [],
+                    "icon": "https://bin.bnbstatic.com/image/20200609/zxgg2x.png",
+                    "parentCatalogId": null,
+                    "total": 1016
+                },
+                {
+                    "articles": [
+                        {
+                            "code": "7b883432119c4ac09823da1789acef17",
+                            "id": 48831,
+                            "title": "Binance Futures Launches Mondays & Tuesdays Bounty Promo"
+                        },
+                        {
+                            "code": "8308d9c5ccdf452d9fd08b8ea00c8d2d",
+                            "id": 48716,
+                            "title": "SAND Trading Competition - $50,000 in SAND and Limited-Edition NFTs to Be Won!"
+                        },
+                        {
+                            "code": "161aba5e8bee490faf0df18c6ab01d87",
+                            "id": 48563,
+                            "title": "Binance Futures Spring Tournament -  Over $1,600,000 to Be Won!"
+                        },
+                        {
+                            "code": "fb525bd7a5e84aa98eba392bfaf47bc0",
+                            "id": 46537,
+                            "title": "Binance Futures 10,000 USDT Promo - Deposit EUR and Trade USDT-Margined Futures"
+                        },
+                        {
+                            "code": "015c075e788e4bdba85a8c1dafdc6d95",
+                            "id": 45741,
+                            "title": "Year of the Bull Promo: $100,000 in BTC to Be Won"
+                        }
+                    ],
+                    "catalogId": 93,
+                    "catalogName": "Latest Activities",
+                    "catalogs": [],
+                    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAc5SURBVHgB7Z1LbxtVFMfPuePEsZOURCwQFaLupg8WtKFQiQWqu6ciWSIWtJuyTPMJ2u5BTZftpmXTLYnKPiOxK6oSWJC0EmKCRBELlNA8HMeeuZxzY7ue8Ywf47nj2J6flNrz8Izn73PuuffcRxF6iNxanbJHs3mUdk4YxgXakwMJOXUMjl7fnIzbiNIChG0AtBzH2XQcMFPlgzWcntmGHoEQI1XBDMQrAM5sg0jhsVCiaQMsG4f7ZpyCxiJgaWc9nzLEvJSQB5RToBkS8zGLmRo/uwSa0SYgWxuMZeelA7fiEC0AcnV5t1QCMzN93gINRC7gMRHOi4WIjzFz9i5ETKQClnfXrwuBtyG6si1qlEWmJs4/hoiIREC5tZ6DMXykyrj+YKlYlAtRuLWALpH7G/NyVKz2kXjMbDotVtljoEtCW6Aq69LjtyU4t6CPQRCLmD2zACEJJSC7rEzjD/T2IgwGa+TSc2FcumMBK+KtwPENFGGxSMSrnYrYkYADLF6VjkVsW8AhEK9KRyK2JeAQiVelbRHbqsZUAkYOhodcmp5Z1TRa0FJAuf/yHgxOtO2Ei1xNa3VSUxeuNM0ewRBDKbcFI3tuMeh4oICq3KMWxjFKCPQI3C4WnZmg8jDYhdPink7xZHkHZPEVdAtfI4rrNLnDVHos2At9LVCX67Joh389gdI/T8Ep/l3bb7x1CUbfuQYj9NcOzt5LKPz+rXrlazJi7CSk6DrpUzcB0ychaiiLc8Mvi+MroLO/8QdEHHWdg1ew/+tNl3Be0u/fJAG+aXodFr/w8k7gcRYy88F3YIyfgYixsFiY8XYXNLiwLLyIPJ/HVtJKPKb450Mobj4IPN5KPKb6Q2lw65wzOtaQOHEJqAKHlNchYthtveJhahJE+t2Gc4NE5H1+4vE1+Fr18A9W3HwIUYNI/TqeuqFLQHtE5fRyEDFsOa6bkptNfPQEJi7/CBOfPG0QkkU8oDKutk3i8T7vNcY/fKiuMfmp2eD6pX/NWvkYHXLKa4WuMlBX2bf7szs48INz4Kg/x8/FOaiwuP7iPWgIFnt0Dfu/57XtyctPNQQU3BbZs9O171J9U3792yzoaK7Zuw276sVTX4IEyZKoXktky21XPHUsdcK17Rw0L3PDIae4m7Z2z+obwzC+AB0YEw27ynVWUvsiASJ6zwkSj63Y3t1wnx99JFYYBs5X3ysX5oJRpjNboIndZ5+73LOVEEERm6s5/Fkv1fql9x5cvuoBt7G4f5qrNCnetI10vuvepSaMvveVKyiwSDvPrqnoiT4WKn3cnvG6czNYbH1QC400ozdLSjdt7lth9OSXDeWe+hpkOWw13r9uo+fI2/m2WzVhcYTI86sSUKLMg2ay1DrQ/VAM32PszB3QDQpQRoe6yz8vXM04pOhq776gaBJdPc2Y+li1p/0sXRfUtJtGDskUVVYgoWOw7MwJIfpqRMGxwkmJHEfhHGhEb66uNTpSW1UE4oUU5f1OSQna4OpKLznx2XPQhQSZE9KBIU/Zd4GEHFVjMAcJoUnF3WnUrK1bj7cpF/ZzmlFBJFY4f9cOr3+6FMnndKOzCTwUJAJ2iaB8lgUJIaHsNCSEBkFaFIXJAmV8I6/Ctkx63aLxQyJsp6jHfRMxvilzYVsmvW7R+IGAlgAp1yAhFDxjlJtyFiSEgqfbCsMumpAQCp6rnOKeJbm/YUmIJ5BwZ3c7eMu8sJ/TiFXrlSNTXKYc/zzEQNj8nM68Xhgo8Jr8etSp5DgmJHRGyV7ml6NuTS4HJfZs3YG+pBI7lIDsy2hIExLaQk3ergy0fDO4qCTvQ0J7VNyXcQ9v23uxFXWC1ZufizuhqqFPxBLZc6erG66EqgTnPjVPWk4u6YawGeOYM82B8JIB9duubIw4PFhMgklTrJIBZv0Ol4CqUk1WCAm+SCm/z2TcE24a0jCVsTKrEFHLZIA61l1lX+36fmcmc+Qa6WiijfpAYWMF+mslDp0skfXN+R0ITOlTuvpGElBArRpXRBm4qkewgFRYSpSRL5XUbzjSWfAGjnqadirxPFlKuA5tVOZnb7VMVMvOEBWVRzMrdOawzVpfo3JvptVJLbs1VaJBSC5ALRgeLCr35to5sf1lTwo8EXFIlj1BebVZuVdPZwvvDL6IHYnHdL700+CK2LF4TMdDO7h6g3QjqmQPUn/yWhjxmFBjY1hEMX5uZhCqOPwMmCmEEo/pekyHajej3hU+tEAtDG4oNFsTph2iWQKUykXqKLhHv+Ys9AcmueyNsFZXT7IIbZdoGZZl763foZ6rr+G4CMnuSolikT1YRIx2lXN9C3GTW9s25HtqkRqFqxLLwEBejwENnK1YpV44BYfStG15f2TyvAmaiW9kJXCfwuqUvZPOV8S8AhH+ZwQSYFmWHdOYLJq6rM2PWAX0woKWd8cu8oxRIcQpnnsGauoZ5nyqRZb6F8HikaGObf/CYxvjFszL/555a3dEMyBCAAAAAElFTkSuQmCC",
+                    "parentCatalogId": null,
+                    "total": 389
+                },
+                {
+                    "articles": [
+                        {
+                            "code": "21bec5646ffe4b84aff13b0826eb072d",
+                            "id": 48810,
+                            "title": "Binance Adds DOT/BRL, ADA/AUD, HOT/TRY & EGLD/EUR Trading Pairs"
+                        },
+                        {
+                            "code": "b7fa0ebc5f7c475aa3d80755e76d64d9",
+                            "id": 48326,
+                            "title": "Buy CAKE and ADA with 15 Fiat Currencies Directly on Binance!"
+                        },
+                        {
+                            "code": "7ef9ce93de2b4be7a0e4dbaf4686d660",
+                            "id": 45987,
+                            "title": "Binance P2P Supports Phone Number Based Payment Methods for INR"
+                        },
+                        {
+                            "code": "d7e039f5811441eabf963ae1b717b3da",
+                            "id": 45756,
+                            "title": "Binance Adds NGN FIAT/NGN Pair and Launches Express Mode for P2P Trading in Nigeria"
+                        },
+                        {
+                            "code": "71ca044669a2433bb42b7592e314db1e",
+                            "id": 45744,
+                            "title": "Binance Introduces Instant Card Withdrawal for EUR and GBP"
+                        }
+                    ],
+                    "catalogId": 50,
+                    "catalogName": "New Fiat Listings",
+                    "catalogs": [],
+                    "icon": "https://bin.bnbstatic.com/image/20200609/fbjy2x.png",
+                    "parentCatalogId": null,
+                    "total": 146
+                },
+                {
+                    "articles": [
+                        {
+                            "code": "fab53eade2db425f8d967afd5aa34e72",
+                            "id": 44791,
+                            "title": "API Functionality Now Enabled for Binance Vanilla Options"
+                        },
+                        {
+                            "code": "087519dd117e4a7593dd318631471a74",
+                            "id": 34223,
+                            "title": "Update to the Binance USDT-Margined Futures Contract API"
+                        },
+                        {
+                            "code": "88c27aa33b8e443c81d94c7f56639c06",
+                            "id": 32762,
+                            "title": "Updates to the Binance Savings API"
+                        },
+                        {
+                            "code": "e3ebd4e635c74ba687bc15031b02aeb2",
+                            "id": 32513,
+                            "title": "API Functionality Now Enabled for Binance Liquid Swap"
+                        },
+                        {
+                            "code": "8154893b1be34870aee9253828642290",
+                            "id": 31643,
+                            "title": "Updates to Scheduled Changes for the User Data Stream Websocket"
+                        }
+                    ],
+                    "catalogId": 51,
+                    "catalogName": "API Updates",
+                    "catalogs": [],
+                    "icon": "https://bin.bnbstatic.com/image/20200609/APIgg2x.png",
+                    "parentCatalogId": null,
+                    "total": 24
+                }
+            ]
+        }
+    },
+    "runtimeConfig": {
+        "ACCELERATE_AVAILABLE_DOMAIN": "api.yshyqxx.com,api.mojodesign.cn",
+        "ACCELERATE_DEFAULT_DOMAIN": "api.yshyqxx.com",
+        "ACCELERATE_ENBLED_SITES": "www.binancezh.com,www.binancezh.net,accounts.binancezh.com,accounts.binancezh.net,www.binancezh.pro,accounts.binancezh.pro,www.binancezh.co,accounts.binancezh.co",
+        "ALB_HOST": "http://bin.bnbstatic.com.s3.ap-northeast-1.amazonaws.com",
+        "ASSETS_HOST": "https://bin.bnbstatic.com",
+        "CHAT_STREAM_HOST": "wss://haodesk.binance.im",
+        "COMMIT_HEAD": "e3051854e4155a896d066a6baffd323829db0f3b",
+        "COMMIT_ID": "e3051854e4155a896d066a6baffd323829db0f3b",
+        "INBOX_STREAM_HOST_TEMPLATE": "wss://bstream.{{rootDomain}}:9443",
+        "MARKET_STREAM_HOST_TEMPLATE": "wss://nbstream.{{rootDomain}}",
+        "SENSORS_SERVER_HOST": "https://sensors.binance.cloud/sa?project=binance",
+        "SITE_HOST": "https://www.binance.com",
+        "SITE_HOST_TEMPLATE": "https://www.{{rootDomain}}",
+        "STATIC_HOST": "https://bin.bnbstatic.com",
+        "STATIC_HOST_PRIVATE": "http://bin.bnbstatic.com.s3.ap-northeast-1.amazonaws.com",
+        "STATIC_HOST_PUBLIC": "https://bin.bnbstatic.com",
+        "STATIC_HOST_SHARE": "https://public.bnbstatic.com"
+    },
+    "ssr": true
+}
